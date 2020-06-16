@@ -1,0 +1,27 @@
+# Knowledge Unit: [Hungry](../../knowledge_units/general/hungry.md)
+### Alternatives:   Thirsty   /  Starving   /  Dehydrating 
+#### [:arrow_up: Go up](../../topics/general.md)
+### Current topic
+> [General](../../topics/general.md)
+### Output
+> I see...Why don&#039;t you grab a glass of water and we talk about food?
+### Go to Topic
+> [Food](../../topics/food.md)
+
+### Options: 
+
+| Option Text | Knowledge Unit |
+| - | - |  
+| Yes!  |  Exists ([View](../../knowledge_units/food/yes.md))  |  
+| No thanks  |  Exists ([View](../../knowledge_units/food/no-thanks.md))  | 
+
+# Contributors
+
+| Contributor/s to this KU |
+| - | 
+| Anna Cejudo |
+
+# License
+[![GitHub license](https://img.shields.io/github/license/inbrainz/cerebro)](https://github.com/inbrainz/cerebro/blob/master/LICENSE)
+
+This work is licensed under a [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.txt).

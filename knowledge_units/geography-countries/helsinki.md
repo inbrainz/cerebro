@@ -1,0 +1,29 @@
+# Knowledge Unit: [Helsinki](../../knowledge_units/geography-countries/helsinki.md)
+
+#### [:arrow_up: Go up](../../topics/geography-countries.md)
+### Current topic
+> [Geography - Countries](../../topics/geography-countries.md)
+### Output
+> Yes! What is the capital of Japan?
+### Go to Topic
+> [Geography - Countries](../../topics/geography-countries.md)
+
+### Options: 
+
+| Option Text | Knowledge Unit |
+| - | - |  
+| Tokyo  |  Exists ([View](../../knowledge_units/geography-countries/tokyo.md))  |  
+| Kyoto  |  Exists ([View](../../knowledge_units/geography-countries/kyoto.md))  |  
+| Hiroshima  |  Exists ([View](../../knowledge_units/geography-countries/hiroshima.md))  |  
+| Hong Kong  |  Exists ([View](../../knowledge_units/geography-countries/hong-kong.md))  | 
+
+# Contributors
+
+| Contributor/s to this KU |
+| - | 
+| Anna Cejudo |
+
+# License
+[![GitHub license](https://img.shields.io/github/license/inbrainz/cerebro)](https://github.com/inbrainz/cerebro/blob/master/LICENSE)
+
+This work is licensed under a [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.txt).
