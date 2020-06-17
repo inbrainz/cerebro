@@ -8,7 +8,7 @@
 > Extract: How are you, &amp;&amp;name ?
 
 
-### Knowledge Unit: [I&#039;m fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited ](../knowledge_units/general/im-fine.md)
+### Knowledge Unit: [I&#039;m fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok ](../knowledge_units/general/im-fine.md)
 
 > Contributor: Pau Garcia-Mila
 
@@ -29,7 +29,7 @@
 > Extract: Hello? Are you there &amp;&amp;name ? What would you like to talk about?
 
 
-### Knowledge Unit: [I&#039;m bored  / Boredom  / Meh  / Idk ](../knowledge_units/general/im-bored.md)
+### Knowledge Unit: [I&#039;m bored  / Boredom  / Meh  / Idk  / Boring ](../knowledge_units/general/im-bored.md)
 
 > Contributor: Pau Garcia-Mila
 
@@ -50,7 +50,7 @@
 > Extract: How about watching a free movie right here right now?
 
 
-### Knowledge Unit: [Sport  / Basket  / Match  / Trainer  / Soccer  / Skiing  / Rowing  / Boxing  / Hockey  / Swimming  / Skydiving  / Diving  / Snorkel  / Snowboarding  / Skating  / Cycling  / Running  / Pilates  / Yoga  / Rugby  / Olympics  / Sports ](../knowledge_units/general/sport.md)
+### Knowledge Unit: [Sport  / Basket  / Match  / Trainer  / Soccer  / Skiing  / Rowing  / Boxing  / Hockey  / Swimming  / Skydiving  / Diving  / Snorkel  / Snowboarding  / Skating  / Cycling  / Running  / Pilates  / Yoga  / Rugby  / Olympics  / Sports  / Spinning ](../knowledge_units/general/sport.md)
 
 > Contributor: Anna Cejudo
 
@@ -85,7 +85,7 @@
 > Extract: Geography is great! What would you like to talk about?
 
       
-### Knowledge Unit: [Climate  / Climatology  / Weather ](../knowledge_units/general/climate.md)
+### Knowledge Unit: [Climate  / Climatology  / Weather  / Meteo ](../knowledge_units/general/climate.md)
 
 > Contributor: Anna Cejudo
 
@@ -148,7 +148,7 @@
 > Extract: Climate change is real! The Earth&#039;s climate has changed throughout history. There are natural fluctu...
 
 
-### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk ](../knowledge_units/general/bad.md)
+### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety ](../knowledge_units/general/bad.md)
 
 > Contributor: American School of Barcelona
 
@@ -190,14 +190,14 @@
 > Extract: Love is a very strong feeling of affection towards someone or something you really care about. When...
 
 
-### Knowledge Unit: [Life ](../knowledge_units/general/life.md)
+### Knowledge Unit: [Life  / Death ](../knowledge_units/general/life.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: Life is the period between birth and death. The fact that you are here, breathing and talking to me...
 
 
-### Knowledge Unit: [Coronavirus  / Coronaviruses  / COVID-19  / COVID19  / SARS-CoV-2  / Confinated  / Confination  / Isolated ](../knowledge_units/general/coronavirus.md)
+### Knowledge Unit: [Coronavirus  / Coronaviruses  / COVID-19  / COVID19  / SARS-CoV-2  / Confinated  / Confination  / Isolated  / Lockdown ](../knowledge_units/general/coronavirus.md)
 
 > Contributor: Anna Cejudo
 
@@ -246,7 +246,7 @@
 > Extract: Online shopping is great! It&#039;s very convenient to find everything (or almost everything) without mov...
 
  
-### Knowledge Unit: [Awesome  / Outstanding ](../knowledge_units/general/awesome.md)
+### Knowledge Unit: [Awesome  / Outstanding  / wow ](../knowledge_units/general/awesome.md)
 
 > Contributor: American School of Barcelona
 
@@ -717,7 +717,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: I don&#039;t need much sleep, but thanks for asking!
 
  
-### Knowledge Unit: [Lullaby ](../knowledge_units/general/lullaby.md)
+### Knowledge Unit: [Lullaby  / lullabies ](../knowledge_units/general/lullaby.md)
 
 > Contributor: Anna Cejudo
 
@@ -842,7 +842,105 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Extract: I see...Why don&#039;t you grab a glass of water and we talk about food?
 
-        
+          
+### Knowledge Unit: [Sleepy ](../knowledge_units/general/sleepy.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: What can I do for you?
+
+   
+### Knowledge Unit: [time ](../knowledge_units/general/time.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: You can check what time it is anywhere in the world [here](https://time.is/). What would you like to...
+
+   
+### Knowledge Unit: [working ](../knowledge_units/general/working.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I found a cool playlist on YouTube to create a perfect work environment for you. You can play it [he...
+
+  
+### Knowledge Unit: [Bot ](../knowledge_units/general/bot.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Bots are a software application that are programmed to do different tasks, usually repetitive action...
+
+
+### Knowledge Unit: [Artificial Intelligence  / AI  / IA ](../knowledge_units/general/artificial-intelligence.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Artificial intelligence is the simulation of human intelligence processes performed by smart machine...
+
+   
+### Knowledge Unit: [123  / 1234  / 12345 ](../knowledge_units/general/123.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: 4, 8, 15, 16, 23, 42
+
+    
+### Knowledge Unit: [Coding  / Code ](../knowledge_units/general/coding.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Coding is the process of creating instructions for computers and smart machines to perform certain a...
+
+  
+### Knowledge Unit: [Future ](../knowledge_units/general/future.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Future is now, and now, and now... Wait, that is now past. Wait, what?
+
+
+### Knowledge Unit: [Ketchup  / Mustard ](../knowledge_units/general/ketchup.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I&#039;m not a Ketchup nor mustard fan, I&#039;d rather add some mediterranean olive oil instead. Yummy!
+
+ 
+### Knowledge Unit: [Drone ](../knowledge_units/general/drone.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Drones are preprogrammed or remotely controlled devices designed for water, land, and air use. I fou...
+
+
+### Knowledge Unit: [bye  / Bye!  / Bye bye  / Byebye  / Bye-bye  / Goodbye  / See you  / Talk soon  / I&#039;m off  / I gotta jet  / I gotta take off  / I gotta hit the road  / I gotta head out  / I gotta go  / See ya  / I&#039;m leaving ](../knowledge_units/general/bye.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Talk soon!
+
+              
+### Knowledge Unit: [Raining  / Pouring  / Sunny  / Windy  / Snowy  / Storm  / Rain  / Cloudy  / Cloud  / Snow ](../knowledge_units/general/raining.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: You can check the weather [here](https://weather.com/) 😊
+
+          
+### Knowledge Unit: [Sorry ](../knowledge_units/general/sorry.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: No worries! What would you like to talk about?
+
+  
+### Knowledge Unit: [Plane  / Airplane  / Aircraft ](../knowledge_units/general/plane.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Did you know that, even though there were many previous flying machines, it wasn&#039;t until 1903 when t...
+
+  
 # Contributors
 
 | Contributor/s to this Topic |

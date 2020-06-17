@@ -1,5 +1,5 @@
 # Knowledge Unit: [Life](../../knowledge_units/general/life.md)
-
+### Alternatives:   Death 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

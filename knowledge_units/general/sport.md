@@ -1,5 +1,5 @@
 # Knowledge Unit: [Sport](../../knowledge_units/general/sport.md)
-### Alternatives:   Basket   /  Match   /  Trainer   /  Soccer   /  Skiing   /  Rowing   /  Boxing   /  Hockey   /  Swimming   /  Skydiving   /  Diving   /  Snorkel   /  Snowboarding   /  Skating   /  Cycling   /  Running   /  Pilates   /  Yoga   /  Rugby   /  Olympics   /  Sports 
+### Alternatives:   Basket   /  Match   /  Trainer   /  Soccer   /  Skiing   /  Rowing   /  Boxing   /  Hockey   /  Swimming   /  Skydiving   /  Diving   /  Snorkel   /  Snowboarding   /  Skating   /  Cycling   /  Running   /  Pilates   /  Yoga   /  Rugby   /  Olympics   /  Sports   /  Spinning 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

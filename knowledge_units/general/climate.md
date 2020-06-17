@@ -1,5 +1,5 @@
 # Knowledge Unit: [Climate](../../knowledge_units/general/climate.md)
-### Alternatives:   Climatology   /  Weather 
+### Alternatives:   Climatology   /  Weather   /  Meteo 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

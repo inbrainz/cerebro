@@ -1,5 +1,5 @@
 # Knowledge Unit: [Coronavirus](../../knowledge_units/general/coronavirus.md)
-### Alternatives:   Coronaviruses   /  COVID-19   /  COVID19   /  SARS-CoV-2   /  Confinated   /  Confination   /  Isolated 
+### Alternatives:   Coronaviruses   /  COVID-19   /  COVID19   /  SARS-CoV-2   /  Confinated   /  Confination   /  Isolated   /  Lockdown 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

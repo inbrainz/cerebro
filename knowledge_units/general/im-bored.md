@@ -1,5 +1,5 @@
 # Knowledge Unit: [I&#039;m bored](../../knowledge_units/general/im-bored.md)
-### Alternatives:   Boredom   /  Meh   /  Idk 
+### Alternatives:   Boredom   /  Meh   /  Idk   /  Boring 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

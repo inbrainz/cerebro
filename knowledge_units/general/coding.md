@@ -1,10 +1,10 @@
-# Knowledge Unit: [I&#039;m fine](../../knowledge_units/general/im-fine.md)
-### Alternatives:   Good   /  Great great!   /  Doing well   /  Ok   /  O.K.   /  Okay   /  Ok!   /  O.K.!   /  Okay!   /  Cool   /  Cool!   /  Fantastic   /  Well   /  Alright   /  Stupendous   /  Very well   /  Very good   /  Well   /  Happy   /  Excited   /  i&#039;m ok 
+# Knowledge Unit: [Coding](../../knowledge_units/general/coding.md)
+### Alternatives:   Code 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> That&#039;s good to hear! I&#039;m fine too. What would you like to talk about?
+> Coding is the process of creating instructions for computers and smart machines to perform certain actions. Using programming languages you can code almost anything! What would you like to talk about?
 ### Go to Topic
 > [General](../../topics/general.md)
 
@@ -13,7 +13,7 @@
 
 | Contributor/s to this KU |
 | - | 
-| Pau Garcia-Mila |
+| Anna Cejudo |
 
 # License
 [![GitHub license](https://img.shields.io/github/license/inbrainz/cerebro)](https://github.com/inbrainz/cerebro/blob/master/LICENSE)

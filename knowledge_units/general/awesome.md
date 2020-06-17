@@ -1,5 +1,5 @@
 # Knowledge Unit: [Awesome](../../knowledge_units/general/awesome.md)
-### Alternatives:   Outstanding 
+### Alternatives:   Outstanding   /  wow 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
