@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Religion is a very personal and sensitive topic. Why don&#039;t we talk about this another time? What would you like to talk about now?
+> Religion is a very personal and sensitive topic. Why don&#039;t we talk about this another time?
 ### Go to Topic
 > [General](../../topics/general.md)
 

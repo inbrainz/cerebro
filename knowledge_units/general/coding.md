@@ -1,10 +1,10 @@
 # Knowledge Unit: [Coding](../../knowledge_units/general/coding.md)
-### Alternatives:   Code 
+### Alternatives:   Code   /  Programming 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Coding is the process of creating instructions for computers and smart machines to perform certain actions. Using programming languages you can code almost anything! What would you like to talk about?
+> Coding is the process of creating instructions for computers and smart machines to perform certain actions. Using programming languages you can code almost anything! I found a short video about programming that might interest you. You can watch it [here](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro).
 ### Go to Topic
 > [General](../../topics/general.md)
 

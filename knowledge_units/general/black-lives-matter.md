@@ -1,5 +1,5 @@
 # Knowledge Unit: [Black lives matter](../../knowledge_units/general/black-lives-matter.md)
-### Alternatives:   Racism   /  Black people 
+### Alternatives:   Racism   /  Black people   /  Racial 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I prefer some fresh water or lemon water. Delicious and refreshing! What would you like to talk about?
+> I prefer some fresh water or lemon water. Delicious and refreshing!
 ### Go to Topic
 > [General](../../topics/general.md)
 

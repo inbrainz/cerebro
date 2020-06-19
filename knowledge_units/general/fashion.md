@@ -1,5 +1,5 @@
 # Knowledge Unit: [Fashion](../../knowledge_units/general/fashion.md)
-
+### Alternatives:   Style   /  Clothes 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

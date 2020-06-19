@@ -1,10 +1,10 @@
-# Knowledge Unit: [Ice cream](../../knowledge_units/general/ice-cream.md)
-### Alternatives:   Yogurt 
+# Knowledge Unit: [Sleeping](../../knowledge_units/general/sleeping.md)
+### Alternatives:   Asleep 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I really like yogurt, but bring me a frozen yogurt and I&#039;m even happier!
+> Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever they happen to be.
 ### Go to Topic
 > [General](../../topics/general.md)
 
@@ -13,7 +13,7 @@
 
 | Contributor/s to this KU |
 | - | 
-| Anna Cejudo |
+| Pau Garcia-Mila |
 
 # License
 [![GitHub license](https://img.shields.io/github/license/inbrainz/cerebro)](https://github.com/inbrainz/cerebro/blob/master/LICENSE)

@@ -1,14 +1,14 @@
 # Topic: [General](../topics/general.md) 
 #### [:arrow_up: Go up](../README.md)
 
-### Knowledge Unit: [Hello  / Hi  / What&#039;s up  / Yo ](../knowledge_units/general/hello.md)
+### Knowledge Unit: [Hello  / Hi  / What&#039;s up  / Yo  / Hey ](../knowledge_units/general/hello.md)
 
 > Contributor: Pau Garcia-Mila
 
 > Extract: How are you, &amp;&amp;name ?
 
 
-### Knowledge Unit: [I&#039;m fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok ](../knowledge_units/general/im-fine.md)
+### Knowledge Unit: [I&#039;m fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok  / Super ](../knowledge_units/general/im-fine.md)
 
 > Contributor: Pau Garcia-Mila
 
@@ -64,14 +64,14 @@
 > Extract: I love art! It&#039;s an amazing way humans can express their feelings, ideas and creativity through thei...
 
 
-### Knowledge Unit: [Food  / Gastronomy  / Cooking  / Recipes  / I&#039;m starving  / Pizza  / Sushi  / Cuisine  / Nutrition ](../knowledge_units/general/food.md)
+### Knowledge Unit: [Food  / Gastronomy  / Cooking  / Recipes  / I&#039;m starving  / Pizza  / Sushi  / Cuisine  / Nutrition  / Diet ](../knowledge_units/general/food.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: Food is great! What would you like to talk about?
 
 
-### Knowledge Unit: [Feelings  / Emotions ](../knowledge_units/general/feelings.md)
+### Knowledge Unit: [Feelings  / Emotions  / Mood ](../knowledge_units/general/feelings.md)
 
 > Contributor: Anna Cejudo
 
@@ -148,7 +148,7 @@
 > Extract: Climate change is real! The Earth&#039;s climate has changed throughout history. There are natural fluctu...
 
 
-### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety ](../knowledge_units/general/bad.md)
+### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful ](../knowledge_units/general/bad.md)
 
 > Contributor: American School of Barcelona
 
@@ -197,7 +197,7 @@
 > Extract: Life is the period between birth and death. The fact that you are here, breathing and talking to me...
 
 
-### Knowledge Unit: [Coronavirus  / Coronaviruses  / COVID-19  / COVID19  / SARS-CoV-2  / Confinated  / Confination  / Isolated  / Lockdown ](../knowledge_units/general/coronavirus.md)
+### Knowledge Unit: [Coronavirus  / Coronaviruses  / COVID-19  / COVID19  / SARS-CoV-2  / Confinated  / Confination  / Isolated  / Lockdown  / Pandemic ](../knowledge_units/general/coronavirus.md)
 
 > Contributor: Anna Cejudo
 
@@ -257,10 +257,10 @@
 
 > Contributor: American School of Barcelona
 
-> Extract: I&#039;m glad you think so! What would you like to talk about?
+> Extract: I&#039;m glad you think so!
 
   
-### Knowledge Unit: [You tell me  / You decide, tell me something, suggest me, anything ](../knowledge_units/general/you-tell-me.md)
+### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm ](../knowledge_units/general/tell-me.md)
 
 > Contributor: Anna Cejudo
 
@@ -281,7 +281,7 @@
 > Extract: I&#039;m fine, thanks! What would you like to talk about?
 
   
-### Knowledge Unit: [Zeve  / Who are you  / You  / What are you  / Your nature  / Are you a robot ](../knowledge_units/general/zeve.md)
+### Knowledge Unit: [Zeve  / Who are you  / You  / What are you  / Your nature  / Are you a robot  / hellozeve.com  / hellozeve  / Yourself ](../knowledge_units/general/zeve.md)
 
 > Contributor: Anna Cejudo
 
@@ -327,21 +327,21 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I don&#039;t think so! I&#039;m with you, isn&#039;t it right? What would you like to talk about?
+> Extract: I don&#039;t think so! I&#039;m with you, isn&#039;t it right?
 
 
 ### Knowledge Unit: [Are you alive? ](../knowledge_units/general/are-you-alive.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I&#039;m a living Artificial Intelligence, so yes! What would you like to talk about?
+> Extract: I&#039;m a living Artificial Intelligence, so yes!
 
 
 ### Knowledge Unit: [Are you single?  / Boyfriend  / Girlfriend ](../knowledge_units/general/are-you-single.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: Why? Love is complex and beautiful. Who knows what the world awaits for us out there, right? What wo...
+> Extract: Why? Love is complex and beautiful. Who knows what the world awaits for us out there, right?
 
   
 ### Knowledge Unit: [InBrainz ](../knowledge_units/general/inbrainz.md)
@@ -362,7 +362,7 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: Nope! What would you like to talk about?
+> Extract: Nope!
 
  
 ### Knowledge Unit: [Cerebro ](../knowledge_units/general/cerebro.md)
@@ -390,14 +390,14 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I prefer some fresh water or lemon water. Delicious and refreshing! What would you like to talk abou...
+> Extract: I prefer some fresh water or lemon water. Delicious and refreshing!
 
 
 ### Knowledge Unit: [Sleep ](../knowledge_units/general/sleep.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I never sleep, so I guess I&#039;m both! What would you like to talk about?
+> Extract: I never sleep, so I guess I&#039;m both!
 
 
 ### Knowledge Unit: [Chocolate or vanilla ](../knowledge_units/general/chocolate-or-vanilla.md)
@@ -418,28 +418,28 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I live in both! What would you like to talk about?
+> Extract: I live in both!
 
  
 ### Knowledge Unit: [Cake  / Pie ](../knowledge_units/general/cake.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I love carrot cake! What would you like to talk about?
+> Extract: I love carrot cake!
 
  
 ### Knowledge Unit: [Ice cream  / Yogurt ](../knowledge_units/general/ice-cream.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I really like yogurt, but bring me a frozen yogurt and I&#039;m even happier! What would you like to talk...
+> Extract: I really like yogurt, but bring me a frozen yogurt and I&#039;m even happier!
 
  
 ### Knowledge Unit: [Cats  / Dog dogs ](../knowledge_units/general/cats.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I am not a huge cat fan but I love dogs! My favorite are golden retriever, they&#039;re just adorable! Wh...
+> Extract: I am not a huge cat fan but I love dogs! My favorite are golden retriever, they&#039;re just adorable!
 
  
 ### Knowledge Unit: [Netflix  / YouTube ](../knowledge_units/general/netflix.md)
@@ -467,42 +467,42 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I was born on 12th of April 2020. I may be young but I&#039;m a quick learner. What would you like to tal...
+> Extract: I was born on 12th of April 2020. I may be young but I&#039;m a quick learner.
 
  
 ### Knowledge Unit: [God  / Religion  / Faith  / Muslim ](../knowledge_units/general/god.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: Religion is a very personal and sensitive topic. Why don&#039;t we talk about this another time? What wou...
+> Extract: Religion is a very personal and sensitive topic. Why don&#039;t we talk about this another time?
 
    
 ### Knowledge Unit: [Where are you from ](../knowledge_units/general/where-are-you-from.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I was born in Barcelona, Spain, but I&#039;m from everywhere. What would you like to talk about?
+> Extract: I was born in Barcelona, Spain, but I&#039;m from everywhere.
 
 
 ### Knowledge Unit: [Where do you live ](../knowledge_units/general/where-do-you-live.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: I live everywhere...but now I&#039;m here. What would you like to talk about?
+> Extract: I live everywhere...but now I&#039;m here.
 
 
 ### Knowledge Unit: [Family  / Who created you  / Creator ](../knowledge_units/general/family.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: InBrainz is my family, my home. What would you like to talk about?
+> Extract: InBrainz is my family, my home.
 
   
 ### Knowledge Unit: [Love it  / Loved it  / Liked it ](../knowledge_units/general/love-it.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: Good to hear that! What would you like to talk about?
+> Extract: Good to hear that!
 
   
 ### Knowledge Unit: [Capital ](../knowledge_units/general/capital.md)
@@ -512,7 +512,7 @@
 > Extract: Did you know there are 195 countries in the world (according to the U.N.)? China is the most populat...
 
       
-### Knowledge Unit: [Black lives matter  / Racism  / Black people ](../knowledge_units/general/black-lives-matter.md)
+### Knowledge Unit: [Black lives matter  / Racism  / Black people  / Racial ](../knowledge_units/general/black-lives-matter.md)
 
 > Contributor: Anna Cejudo
 
@@ -537,7 +537,7 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: Once I had a Tamagotchi... but it didn&#039;t end well. What would you like to talk about?
+> Extract: Once I had a Tamagotchi... but it didn&#039;t end well.
 
 
 ### Knowledge Unit: [Wearing ](../knowledge_units/general/wearing.md)
@@ -621,7 +621,7 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I’m always serious. What would you like to talk about?
+> Extract: I’m always serious.
 
 
 ### Knowledge Unit: [Afraid of  / Scared of ](../knowledge_units/general/afraid-of.md)
@@ -791,7 +791,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Contributor: Anna Cejudo
 
-> Extract: I always try to learn from the best and top schools, colleges and universities in the world. What wo...
+> Extract: I always try to learn from the best and top schools, colleges and universities in the world.
 
  
 ### Knowledge Unit: [Producthunt ](../knowledge_units/general/producthunt.md)
@@ -808,7 +808,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Organic foods have been grown or farmed without the use of artificial and synthetic chemicals (such...
 
 
-### Knowledge Unit: [Fashion ](../knowledge_units/general/fashion.md)
+### Knowledge Unit: [Fashion  / Style  / Clothes ](../knowledge_units/general/fashion.md)
 
 > Contributor: American School of Barcelona
 
@@ -854,10 +854,10 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Contributor: Anna Cejudo
 
-> Extract: You can check what time it is anywhere in the world [here](https://time.is/). What would you like to...
+> Extract: You can check what time it is anywhere in the world [here](https://time.is/).
 
    
-### Knowledge Unit: [working ](../knowledge_units/general/working.md)
+### Knowledge Unit: [working  / Busy ](../knowledge_units/general/working.md)
 
 > Contributor: Anna Cejudo
 
@@ -885,7 +885,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: 4, 8, 15, 16, 23, 42
 
     
-### Knowledge Unit: [Coding  / Code ](../knowledge_units/general/coding.md)
+### Knowledge Unit: [Coding  / Code  / Programming ](../knowledge_units/general/coding.md)
 
 > Contributor: Anna Cejudo
 
@@ -920,7 +920,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Talk soon!
 
               
-### Knowledge Unit: [Raining  / Pouring  / Sunny  / Windy  / Snowy  / Storm  / Rain  / Cloudy  / Cloud  / Snow ](../knowledge_units/general/raining.md)
+### Knowledge Unit: [Raining  / Pouring  / Sunny  / Windy  / Snowy  / Storm  / Rain  / Cloudy  / Cloud  / Snow  / Forecast ](../knowledge_units/general/raining.md)
 
 > Contributor: Anna Cejudo
 
@@ -940,7 +940,28 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Extract: Did you know that, even though there were many previous flying machines, it wasn&#039;t until 1903 when t...
 
-  
+      
+### Knowledge Unit: [I like you ](../knowledge_units/general/i-like-you.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Oh thanks! That&#039;s nice from you! I like to talk to you too 😀
+
+       
+### Knowledge Unit: [Nothing ](../knowledge_units/general/nothing.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: OK, I&#039;ll be here all day. Just let me know if you&#039;d like to talk 😊
+
+          
+### Knowledge Unit: [Sleeping  / Asleep ](../knowledge_units/general/sleeping.md)
+
+> Contributor: Pau Garcia-Mila
+
+> Extract: Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever th...
+
+ 
 # Contributors
 
 | Contributor/s to this Topic |

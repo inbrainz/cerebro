@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> I love cheese! Gruyère is my favorite. It&#039;s from Switzerland and it&#039;s really yummy. Would you like to talk about something else?
+> I love cheese! Gruyère is my favorite. It&#039;s from Switzerland and it&#039;s really yummy. Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

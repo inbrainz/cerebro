@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Youtube is great to find videos of any kind, from tutorials to music and workouts. But for movies, I love Netflix! What would you like to talk about?
+> Youtube is great to find videos of any kind, from tutorials to music and workouts. But for movies, I love Netflix!
 ### Go to Topic
 > [General](../../topics/general.md)
 

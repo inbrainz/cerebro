@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I was born in Barcelona, Spain, but I&#039;m from everywhere. What would you like to talk about?
+> I was born in Barcelona, Spain, but I&#039;m from everywhere.
 ### Go to Topic
 > [General](../../topics/general.md)
 

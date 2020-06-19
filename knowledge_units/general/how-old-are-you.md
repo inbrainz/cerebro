@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I was born on 12th of April 2020. I may be young but I&#039;m a quick learner. What would you like to talk about?
+> I was born on 12th of April 2020. I may be young but I&#039;m a quick learner.
 ### Go to Topic
 > [General](../../topics/general.md)
 

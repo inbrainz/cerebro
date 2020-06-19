@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Once I had a Tamagotchi... but it didn&#039;t end well. What would you like to talk about?
+> Once I had a Tamagotchi... but it didn&#039;t end well.
 ### Go to Topic
 > [General](../../topics/general.md)
 

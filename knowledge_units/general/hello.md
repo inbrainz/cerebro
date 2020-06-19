@@ -1,5 +1,5 @@
 # Knowledge Unit: [Hello](../../knowledge_units/general/hello.md)
-### Alternatives:   Hi   /  What&#039;s up   /  Yo 
+### Alternatives:   Hi   /  What&#039;s up   /  Yo   /  Hey 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

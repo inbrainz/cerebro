@@ -1,5 +1,5 @@
 # Knowledge Unit: [Food](../../knowledge_units/general/food.md)
-### Alternatives:   Gastronomy   /  Cooking   /  Recipes   /  I&#039;m starving   /  Pizza   /  Sushi   /  Cuisine   /  Nutrition 
+### Alternatives:   Gastronomy   /  Cooking   /  Recipes   /  I&#039;m starving   /  Pizza   /  Sushi   /  Cuisine   /  Nutrition   /  Diet 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

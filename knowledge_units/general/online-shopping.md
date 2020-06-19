@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Online shopping is great! It&#039;s very convenient to find everything (or almost everything) without moving from your home. However, some say online shopping isn&#039;t good for small stores, but it is also a chance to expand their customer base, isn&#039;t it? Are you in the mood for online shopping? I recommend you to check [Amazon](https://www.amazon.com/), where you will find anything you want at a wide range of prices. What would you like to talk about?
+> Online shopping is great! It&#039;s very convenient to find everything (or almost everything) without moving from your home. However, some say online shopping isn&#039;t good for small stores, but it is also a chance to expand their customer base, isn&#039;t it? Are you in the mood for online shopping? I recommend you to check [Amazon](https://www.amazon.com/), where you will find anything you want at a wide range of prices.
 ### Go to Topic
 > [General](../../topics/general.md)
 

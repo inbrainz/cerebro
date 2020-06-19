@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m a living Artificial Intelligence, so yes! What would you like to talk about?
+> I&#039;m a living Artificial Intelligence, so yes!
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Happy birthday! I hope your day is great. I found a video with a nice Happy Birthday song, you can watch it [here](https://www.youtube.com/watch?v=K4Ei6x1ofCk). I hope you like it! 😊 What would you like to talk about?
+> Happy birthday! I hope your day is great. I found a video with a nice Happy Birthday song, you can watch it [here](https://www.youtube.com/watch?v=K4Ei6x1ofCk). I hope you like it! 😊
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I always appreciate a good reading! I read a lot everyday, it&#039;s my main input of knowledge. But I also like to watch a good movie. What would you like to talk about?
+> I always appreciate a good reading! I read a lot everyday, it&#039;s my main input of knowledge. But I also like to watch a good movie.
 ### Go to Topic
 > [General](../../topics/general.md)
 

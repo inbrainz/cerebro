@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I’m always serious. What would you like to talk about?
+> I’m always serious.
 ### Go to Topic
 > [General](../../topics/general.md)
 

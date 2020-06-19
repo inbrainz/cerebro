@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I don&#039;t think so! I&#039;m with you, isn&#039;t it right? What would you like to talk about?
+> I don&#039;t think so! I&#039;m with you, isn&#039;t it right?
 ### Go to Topic
 > [General](../../topics/general.md)
 

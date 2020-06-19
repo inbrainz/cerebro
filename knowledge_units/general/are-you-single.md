@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Why? Love is complex and beautiful. Who knows what the world awaits for us out there, right? What would you like to talk about?
+> Why? Love is complex and beautiful. Who knows what the world awaits for us out there, right?
 ### Go to Topic
 > [General](../../topics/general.md)
 

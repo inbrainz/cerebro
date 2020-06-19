@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> You can check what time it is anywhere in the world [here](https://time.is/). What would you like to talk about?
+> You can check what time it is anywhere in the world [here](https://time.is/).
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I live everywhere...but now I&#039;m here. What would you like to talk about?
+> I live everywhere...but now I&#039;m here.
 ### Go to Topic
 > [General](../../topics/general.md)
 

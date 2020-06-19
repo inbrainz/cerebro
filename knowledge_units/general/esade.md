@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I always try to learn from the best and top schools, colleges and universities in the world. What would you like to talk about?
+> I always try to learn from the best and top schools, colleges and universities in the world.
 ### Go to Topic
 > [General](../../topics/general.md)
 

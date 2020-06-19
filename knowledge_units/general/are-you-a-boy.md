@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Nope! What would you like to talk about?
+> Nope!
 ### Go to Topic
 > [General](../../topics/general.md)
 

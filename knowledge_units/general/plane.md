@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Did you know that, even though there were many previous flying machines, it wasn&#039;t until 1903 when the Wright brothers invented and flew the first airplane? How cool is that! I found this video about how airplanes are made, let&#039;s watch it [here](https://www.youtube.com/watch?v=Fjj5yQ6XeDw). What would you like to talk about?
+> Did you know that, even though there were many previous flying machines, it wasn&#039;t until 1903 when the Wright brothers invented and flew the first airplane? How cool is that! I found this video about how airplanes are made, let&#039;s watch it [here](https://www.youtube.com/watch?v=Fjj5yQ6XeDw).
 ### Go to Topic
 > [General](../../topics/general.md)
 

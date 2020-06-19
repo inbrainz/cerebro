@@ -1,10 +1,10 @@
-# Knowledge Unit: [Ice cream](../../knowledge_units/general/ice-cream.md)
-### Alternatives:   Yogurt 
+# Knowledge Unit: [Nothing](../../knowledge_units/general/nothing.md)
+
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I really like yogurt, but bring me a frozen yogurt and I&#039;m even happier!
+> OK, I&#039;ll be here all day. Just let me know if you&#039;d like to talk 😊
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -1,10 +1,10 @@
 # Knowledge Unit: [working](../../knowledge_units/general/working.md)
-
+### Alternatives:   Busy 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I found a cool playlist on YouTube to create a perfect work environment for you. You can play it [here](https://www.youtube.com/watch?v=OcLbZFS4Ge8). Would you like to talk about something else?
+> I found a cool playlist on YouTube to create a perfect work environment for you. You can play it [here](https://www.youtube.com/watch?v=OcLbZFS4Ge8).
 ### Go to Topic
 > [General](../../topics/general.md)
 

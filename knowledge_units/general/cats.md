@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I am not a huge cat fan but I love dogs! My favorite are golden retriever, they&#039;re just adorable! What would you like to talk about?
+> I am not a huge cat fan but I love dogs! My favorite are golden retriever, they&#039;re just adorable!
 ### Go to Topic
 > [General](../../topics/general.md)
 

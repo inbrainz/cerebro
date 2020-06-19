@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I love carrot cake! What would you like to talk about?
+> I love carrot cake!
 ### Go to Topic
 > [General](../../topics/general.md)
 

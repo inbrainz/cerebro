@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> United states has one of the strongest economies in the world and it is made up of 50 states. One of the most famous is California, well known for filmmaking in Hollywood and technology in Silicon Valley. New York, which is a global finance and culture centre and Chicago well-known for its architecture. What would you like to talk about?
+> United states has one of the strongest economies in the world and it is made up of 50 states. One of the most famous is California, well known for filmmaking in Hollywood and technology in Silicon Valley. New York, which is a global finance and culture centre and Chicago well-known for its architecture.
 ### Go to Topic
 > [General](../../topics/general.md)
 

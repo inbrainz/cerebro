@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I live in both! What would you like to talk about?
+> I live in both!
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> Did you know that a healthy, balanced diet should include at least 2 portions of fish a week? It&#039;s a good source of many vitamins, minerals and omega-3 fatty acids, which can help to keep your heart healthy. Salmon is my favorite choice. Would you like to talk about something else?
+> Did you know that a healthy, balanced diet should include at least 2 portions of fish a week? It&#039;s a good source of many vitamins, minerals and omega-3 fatty acids, which can help to keep your heart healthy. Salmon is my favorite choice. Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> Did you know the global average for meat consumption is 42 kilograms per person each year? That&#039;s a lot of burgers! Would you like to talk about something else?
+> Did you know the global average for meat consumption is 42 kilograms per person each year? That&#039;s a lot of burgers! Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

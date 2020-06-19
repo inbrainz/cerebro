@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m glad you think so! What would you like to talk about?
+> I&#039;m glad you think so!
 ### Go to Topic
 > [General](../../topics/general.md)
 

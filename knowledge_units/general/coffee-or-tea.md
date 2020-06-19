@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I love the smell of freshly brewed coffee but I prefer to drink a warm cup of orange and vanilla rooibos. What would you like to talk about?
+> I love the smell of freshly brewed coffee but I prefer to drink a warm cup of orange and vanilla rooibos.
 ### Go to Topic
 > [General](../../topics/general.md)
 

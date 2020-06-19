@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> Yummy! My favorite fruit is Black Sapote, a.k.a “the Chocolate Pudding Fruit”. It tastes very much like chocolate pudding and it&#039;s way healthier, lower in fat and loaded with vitamin C. What would you like to talk about now?
+> Yummy! My favorite fruit is Black Sapote, a.k.a “the Chocolate Pudding Fruit”. It tastes very much like chocolate pudding and it&#039;s way healthier, lower in fat and loaded with vitamin C. Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

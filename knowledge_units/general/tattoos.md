@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m not a tattoo fun, but I must say there are some artists out there with a real talent for tattoos. What would you like to talk about?
+> I&#039;m not a tattoo fun, but I must say there are some artists out there with a real talent for tattoos.
 ### Go to Topic
 > [General](../../topics/general.md)
 

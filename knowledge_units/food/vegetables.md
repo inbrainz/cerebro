@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> Good choice! Many studies have linked the benefits to greater veggie intake to decreased risk of chronic disease, including heart disease, diabetes, and lifestyle-related cancers. Carrots are my favorite! What would you like to talk about?
+> Good choice! Many studies have linked the benefits to greater veggie intake to decreased risk of chronic disease, including heart disease, diabetes, and lifestyle-related cancers. Carrots are my favorite! Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

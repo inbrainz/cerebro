@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Well, the right answer is that zero divided by zero is undefined. I like how my friend Siri explains it: &quot;imagine you have zero cookies and you split them evenly among zero friends. How many cookies does each person get? See? It doesn’t make sense&quot;. What would you like to talk about?
+> Well, the right answer is that zero divided by zero is undefined. I like how my friend Siri explains it: &quot;imagine you have zero cookies and you split them evenly among zero friends. How many cookies does each person get? See? It doesn’t make sense&quot;.
 ### Go to Topic
 > [General](../../topics/general.md)
 

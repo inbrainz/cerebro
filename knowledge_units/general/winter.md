@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I love the snow in winter, the warm sun in summer, the orange color of the tree leaves in autumn and the flowers and green grass of the spring. What would you like to talk about?
+> I love the snow in winter, the warm sun in summer, the orange color of the tree leaves in autumn and the flowers and green grass of the spring.
 ### Go to Topic
 > [General](../../topics/general.md)
 

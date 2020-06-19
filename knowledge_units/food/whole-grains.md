@@ -4,7 +4,7 @@
 ### Current topic
 > [Food](../../topics/food.md)
 ### Output
-> Did you know that whole grains deliver a variety of important nutrients, including vitamins, minerals, protein, fiber, and other healthy plant compounds? And they&#039;re even better if they&#039;s organic. Would you like to talk about something else?
+> Did you know that whole grains deliver a variety of important nutrients, including vitamins, minerals, protein, fiber, and other healthy plant compounds? And they&#039;re even better if they&#039;s organic. Would you like to know more about food?
 ### Go to Topic
 > [Food](../../topics/food.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> InBrainz is my family, my home. What would you like to talk about?
+> InBrainz is my family, my home.
 ### Go to Topic
 > [General](../../topics/general.md)
 

@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Between ninjas or pirates, I&#039;d go with pirates. I love Jack Sparrow from Pirates of the Caribbean, he&#039;s so funny! What would you like to talk about?
+> Between ninjas or pirates, I&#039;d go with pirates. I love Jack Sparrow from Pirates of the Caribbean, he&#039;s so funny!
 ### Go to Topic
 > [General](../../topics/general.md)
 
