@@ -389,7 +389,7 @@
 
 ## Topic: [General](./topics/general.md)
 
-> Last updated on 2020-06-19
+> Last updated on 2020-06-22
 
  - [Hello](./knowledge_units/general/hello.md)
  - [I&#039;m fine](./knowledge_units/general/im-fine.md)
@@ -397,7 +397,7 @@
  
  - [Idle](./knowledge_units/general/idle.md)
 
- - ... and [397 more](./topics/general.md)
+ - ... and [406 more](./topics/general.md)
 
 ## Topic: [Geography](./topics/geography.md)
 
@@ -515,18 +515,6 @@
  - [Televisions](./knowledge_units/modern-technology/televisions.md)
  - [No thanks](./knowledge_units/modern-technology/no-thanks.md)
 
-
-## Topic: [Neuroscience](./topics/neuroscience.md)
-
-> Last updated on 2020-06-02
-
- - [More about Einstein&#039;s brain](./knowledge_units/neuroscience/more-about-einsteins-brain.md)
- - [Parts of the Brain](./knowledge_units/neuroscience/parts-of-the-brain.md)
- - [Frontal Lobe](./knowledge_units/neuroscience/frontal-lobe.md)
- - [Yes!](./knowledge_units/neuroscience/yes.md)
- - [Phineas Gage](./knowledge_units/neuroscience/phineas-gage.md)
-
- - ... and [15 more](./topics/neuroscience.md)
 
 ## Topic: [Organic food](./topics/organic-food.md)
 

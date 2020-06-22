@@ -962,6 +962,20 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever th...
 
  
+### Knowledge Unit: [Languages  / Spanish  / Español ](../knowledge_units/general/languages.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: At this moment I only speak English, but I&#039;ll learn other languages soon!
+
+      
+### Knowledge Unit: [Fate ](../knowledge_units/general/fate.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Let me check my crystal ball...
+
+ 
 # Contributors
 
 | Contributor/s to this Topic |
