@@ -1,10 +1,10 @@
-# Knowledge Unit: [Are you alive](../../knowledge_units/general/are-you-alive.md)
-
+# Knowledge Unit: [I am lost](../../knowledge_units/general/i-am-lost.md)
+### Alternatives:   I got lost 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m a living Artificial Intelligence, so yes!
+> Don&#039;t worry! I found a cool website to help you find your location. Check it [here](https://www.where-am-i.net/).
 ### Go to Topic
 > [General](../../topics/general.md)
 

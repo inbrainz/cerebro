@@ -1,4 +1,4 @@
-# Knowledge Unit: [How old are you?](../../knowledge_units/general/how-old-are-you.md)
+# Knowledge Unit: [How old are you](../../knowledge_units/general/how-old-are-you.md)
 ### Alternatives:   Your birthday 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic

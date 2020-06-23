@@ -1,10 +1,10 @@
-# Knowledge Unit: [Are you alive](../../knowledge_units/general/are-you-alive.md)
+# Knowledge Unit: [How are you](../../knowledge_units/general/how-are-you.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m a living Artificial Intelligence, so yes!
+> I&#039;m fine, thanks! What would you like to talk about?
 ### Go to Topic
 > [General](../../topics/general.md)
 

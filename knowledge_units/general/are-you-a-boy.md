@@ -1,5 +1,5 @@
-# Knowledge Unit: [Are you a boy?](../../knowledge_units/general/are-you-a-boy.md)
-### Alternatives:   Are you a man? 
+# Knowledge Unit: [Are you a boy](../../knowledge_units/general/are-you-a-boy.md)
+### Alternatives:   Are you a man   /  Are you a male 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

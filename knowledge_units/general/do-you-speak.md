@@ -1,10 +1,10 @@
-# Knowledge Unit: [Are you alive](../../knowledge_units/general/are-you-alive.md)
-
+# Knowledge Unit: [Do you speak](../../knowledge_units/general/do-you-speak.md)
+### Alternatives:   Languages 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I&#039;m a living Artificial Intelligence, so yes!
+> At this moment I only speak English, but I&#039;ll learn other languages soon!
 ### Go to Topic
 > [General](../../topics/general.md)
 

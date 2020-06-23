@@ -148,7 +148,7 @@
 > Extract: Climate change is real! The Earth&#039;s climate has changed throughout history. There are natural fluctu...
 
 
-### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful ](../knowledge_units/general/bad.md)
+### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful  / Pain  / Could be better  / Not in the mood  / Bad mood ](../knowledge_units/general/bad.md)
 
 > Contributor: American School of Barcelona
 
@@ -260,7 +260,7 @@
 > Extract: I&#039;m glad you think so!
 
   
-### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm ](../knowledge_units/general/tell-me.md)
+### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm  / I do not mind  / Ask me a question  / Ask me something  / Ask me anything ](../knowledge_units/general/tell-me.md)
 
 > Contributor: Anna Cejudo
 
@@ -274,7 +274,7 @@
 > Extract: Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever th...
 
                                         
-### Knowledge Unit: [How are you today? ](../knowledge_units/general/how-are-you-today.md)
+### Knowledge Unit: [How are you ](../knowledge_units/general/how-are-you.md)
 
 > Contributor: Anna Cejudo
 
@@ -323,21 +323,21 @@
 > Extract: What would you like to talk about?
 
 
-### Knowledge Unit: [Are you alone? ](../knowledge_units/general/are-you-alone.md)
+### Knowledge Unit: [Are you alone ](../knowledge_units/general/are-you-alone.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: I don&#039;t think so! I&#039;m with you, isn&#039;t it right?
 
 
-### Knowledge Unit: [Are you alive? ](../knowledge_units/general/are-you-alive.md)
+### Knowledge Unit: [Are you alive ](../knowledge_units/general/are-you-alive.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: I&#039;m a living Artificial Intelligence, so yes!
 
 
-### Knowledge Unit: [Are you single?  / Boyfriend  / Girlfriend ](../knowledge_units/general/are-you-single.md)
+### Knowledge Unit: [Are you single  / Boyfriend  / Girlfriend ](../knowledge_units/general/are-you-single.md)
 
 > Contributor: Anna Cejudo
 
@@ -351,14 +351,14 @@
 > Extract: InBrainz is my mother, my father, my home.
 
 
-### Knowledge Unit: [Are you a girl?  / Are you a woman  / Are you a lady ](../knowledge_units/general/are-you-a-girl.md)
+### Knowledge Unit: [Are you a girl  / Are you a woman  / Are you a lady ](../knowledge_units/general/are-you-a-girl.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: Yes I am!
 
   
-### Knowledge Unit: [Are you a boy?  / Are you a man? ](../knowledge_units/general/are-you-a-boy.md)
+### Knowledge Unit: [Are you a boy  / Are you a man  / Are you a male ](../knowledge_units/general/are-you-a-boy.md)
 
 > Contributor: Anna Cejudo
 
@@ -391,13 +391,6 @@
 > Contributor: Anna Cejudo
 
 > Extract: I prefer some fresh water or lemon water. Delicious and refreshing!
-
-
-### Knowledge Unit: [Sleep ](../knowledge_units/general/sleep.md)
-
-> Contributor: Anna Cejudo
-
-> Extract: I never sleep, so I guess I&#039;m both!
 
 
 ### Knowledge Unit: [Chocolate or vanilla ](../knowledge_units/general/chocolate-or-vanilla.md)
@@ -463,7 +456,7 @@
 > Extract: I&#039;m not a tattoo fun, but I must say there are some artists out there with a real talent for tattoos...
 
 
-### Knowledge Unit: [How old are you?  / Your birthday ](../knowledge_units/general/how-old-are-you.md)
+### Knowledge Unit: [How old are you  / Your birthday ](../knowledge_units/general/how-old-are-you.md)
 
 > Contributor: Anna Cejudo
 
@@ -526,7 +519,7 @@
 > Extract: What would you like to talk about?
 
  
-### Knowledge Unit: [Zero divided by zero ](../knowledge_units/general/zero-divided-by-zero.md)
+### Knowledge Unit: [Zero divided by zero  / 0/0 ](../knowledge_units/general/zero-divided-by-zero.md)
 
 > Contributor: Anna Cejudo
 
@@ -682,7 +675,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: My favorite song is The Coconut Song, it&#039;s stuck in my mind. You can listen to it [here](https://www...
 
  
-### Knowledge Unit: [Dream about ](../knowledge_units/general/dream-about.md)
+### Knowledge Unit: [What do you dream about  / What are your dreams about ](../knowledge_units/general/what-do-you-dream-about.md)
 
 > Contributor: Anna Cejudo
 
@@ -710,7 +703,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Nope, that&#039;s not healthy. I wouldn&#039;t recommend it.
 
 
-### Knowledge Unit: [Sleep ](../knowledge_units/general/sleep.md)
+### Knowledge Unit: [Do you sleep ](../knowledge_units/general/do-you-sleep.md)
 
 > Contributor: Anna Cejudo
 
@@ -731,11 +724,11 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: My favorite hobby is traveling through multidimensions and exploring new places.
 
  
-### Knowledge Unit: [Here ](../knowledge_units/general/here.md)
+### Knowledge Unit: [I am here  / I love you  / I am gay ](../knowledge_units/general/i-am-here.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: Good to know! What would you like to talk about?
+> Extract: Good to know!
 
  
 ### Knowledge Unit: [Sex ](../knowledge_units/general/sex.md)
@@ -962,13 +955,13 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever th...
 
  
-### Knowledge Unit: [Languages  / Spanish  / Español ](../knowledge_units/general/languages.md)
+### Knowledge Unit: [Do you speak  / Languages ](../knowledge_units/general/do-you-speak.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: At this moment I only speak English, but I&#039;ll learn other languages soon!
 
-      
+    
 ### Knowledge Unit: [Fate ](../knowledge_units/general/fate.md)
 
 > Contributor: Anna Cejudo
@@ -976,6 +969,27 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Let me check my crystal ball...
 
  
+### Knowledge Unit: [Earth flat ](../knowledge_units/general/earth-flat.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: That&#039;s an interesting question...
+
+       
+### Knowledge Unit: [I am lost  / I got lost ](../knowledge_units/general/i-am-lost.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Don&#039;t worry! I found a cool website to help you find your location. Check it [here](https://www.wher...
+
+  
+### Knowledge Unit: [Come on ](../knowledge_units/general/come-on.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Maybe later.
+
+       
 # Contributors
 
 | Contributor/s to this Topic |

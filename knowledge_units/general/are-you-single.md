@@ -1,4 +1,4 @@
-# Knowledge Unit: [Are you single?](../../knowledge_units/general/are-you-single.md)
+# Knowledge Unit: [Are you single](../../knowledge_units/general/are-you-single.md)
 ### Alternatives:   Boyfriend   /  Girlfriend 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic

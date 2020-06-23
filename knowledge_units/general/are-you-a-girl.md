@@ -1,4 +1,4 @@
-# Knowledge Unit: [Are you a girl?](../../knowledge_units/general/are-you-a-girl.md)
+# Knowledge Unit: [Are you a girl](../../knowledge_units/general/are-you-a-girl.md)
 ### Alternatives:   Are you a woman   /  Are you a lady 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic

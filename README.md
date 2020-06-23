@@ -389,7 +389,7 @@
 
 ## Topic: [General](./topics/general.md)
 
-> Last updated on 2020-06-22
+> Last updated on 2020-06-23
 
  - [Hello](./knowledge_units/general/hello.md)
  - [I&#039;m fine](./knowledge_units/general/im-fine.md)
@@ -397,7 +397,7 @@
  
  - [Idle](./knowledge_units/general/idle.md)
 
- - ... and [406 more](./topics/general.md)
+ - ... and [422 more](./topics/general.md)
 
 ## Topic: [Geography](./topics/geography.md)
 

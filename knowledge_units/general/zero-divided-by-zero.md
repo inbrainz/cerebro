@@ -1,5 +1,5 @@
 # Knowledge Unit: [Zero divided by zero](../../knowledge_units/general/zero-divided-by-zero.md)
-
+### Alternatives:   0/0 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

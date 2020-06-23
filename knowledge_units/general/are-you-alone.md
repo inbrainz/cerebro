@@ -1,4 +1,4 @@
-# Knowledge Unit: [Are you alone?](../../knowledge_units/general/are-you-alone.md)
+# Knowledge Unit: [Are you alone](../../knowledge_units/general/are-you-alone.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
