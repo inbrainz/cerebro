@@ -1,10 +1,10 @@
-# Knowledge Unit: [Hello](../../knowledge_units/general/hello.md)
-### Alternatives:   Hi   /  What&#039;s up   /  Yo   /  Hey   /  Hola 
+# Knowledge Unit: [I am fine](../../knowledge_units/general/i-am-fine.md)
+### Alternatives:   Good   /  Great great!   /  Doing well   /  Ok   /  O.K.   /  Okay   /  Ok!   /  O.K.!   /  Okay!   /  Cool   /  Cool!   /  Fantastic   /  Well   /  Alright   /  Stupendous   /  Very well   /  Very good   /  Well   /  Happy   /  Excited   /  i&#039;m ok   /  Super   /  i am ok   /  Pretty good   /  Pretty ok   /  Excellent   /  fine 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> How are you, &amp;&amp;name ?
+> That&#039;s good to hear! What would you like to talk about?
 ### Go to Topic
 > [General](../../topics/general.md)
 

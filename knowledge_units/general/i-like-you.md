@@ -1,10 +1,10 @@
 # Knowledge Unit: [I like you](../../knowledge_units/general/i-like-you.md)
-
+### Alternatives:   You are cute   /  You are pretty 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Oh thanks! That&#039;s nice from you! I like to talk to you too 😀
+> Oh thanks! That&#039;s nice from you! 😀
 ### Go to Topic
 > [General](../../topics/general.md)
 

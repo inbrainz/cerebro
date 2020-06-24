@@ -1,5 +1,5 @@
 # Knowledge Unit: [I am here](../../knowledge_units/general/i-am-here.md)
-### Alternatives:   I love you   /  I am gay 
+### Alternatives:   I love you   /  I am gay   /  Indeed   /  Amazing   /  I know   /  I agree   /  I think so 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

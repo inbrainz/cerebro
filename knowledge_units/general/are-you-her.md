@@ -1,10 +1,10 @@
-# Knowledge Unit: [Do you speak](../../knowledge_units/general/do-you-speak.md)
-### Alternatives:   Languages   /  Speak 
+# Knowledge Unit: [Are you her](../../knowledge_units/general/are-you-her.md)
+
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> At this moment I only speak English, but I&#039;ll learn other languages soon!
+> I’m afraid not.
 ### Go to Topic
 > [General](../../topics/general.md)
 

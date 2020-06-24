@@ -1,5 +1,5 @@
 # Knowledge Unit: [Are you single](../../knowledge_units/general/are-you-single.md)
-### Alternatives:   Boyfriend   /  Girlfriend 
+### Alternatives:   Boyfriend   /  Girlfriend   /  Break up   /  Broke up 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

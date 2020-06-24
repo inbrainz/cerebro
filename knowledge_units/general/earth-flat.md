@@ -1,5 +1,5 @@
 # Knowledge Unit: [Earth flat](../../knowledge_units/general/earth-flat.md)
-
+### Alternatives:   Exist   /  Existence   /  Do you believe in   /  Marry me   /  Will you marry me   /  Pigs fly 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

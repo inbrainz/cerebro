@@ -389,15 +389,15 @@
 
 ## Topic: [General](./topics/general.md)
 
-> Last updated on 2020-06-23
+> Last updated on 2020-06-24
 
  - [Hello](./knowledge_units/general/hello.md)
- - [I&#039;m fine](./knowledge_units/general/im-fine.md)
+ - [I am fine](./knowledge_units/general/i-am-fine.md)
  - [Yes](./knowledge_units/general/yes.md)
  
  - [Idle](./knowledge_units/general/idle.md)
 
- - ... and [422 more](./topics/general.md)
+ - ... and [475 more](./topics/general.md)
 
 ## Topic: [Geography](./topics/geography.md)
 
@@ -437,7 +437,7 @@
 
 ## Topic: [Geography - Mountains](./topics/geography-mountains.md)
 
-> Last updated on 2020-05-03
+> Last updated on 2020-06-23
 
  - [Mount Everest](./knowledge_units/geography-mountains/mount-everest.md)
  - [Aconcagua](./knowledge_units/geography-mountains/aconcagua.md)
@@ -445,7 +445,7 @@
  - [Kilimanjaro](./knowledge_units/geography-mountains/kilimanjaro.md)
  - [Mount Elbrus](./knowledge_units/geography-mountains/mount-elbrus.md)
 
- - ... and [3 more](./topics/geography-mountains.md)
+ - ... and [5 more](./topics/geography-mountains.md)
 
 ## Topic: [Geography - Oceans](./topics/geography-oceans.md)
 

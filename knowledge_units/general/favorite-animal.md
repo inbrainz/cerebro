@@ -1,10 +1,10 @@
-# Knowledge Unit: [Do you speak](../../knowledge_units/general/do-you-speak.md)
-### Alternatives:   Languages   /  Speak 
+# Knowledge Unit: [Favorite animal](../../knowledge_units/general/favorite-animal.md)
+### Alternatives:   Favourite animal   /  Favorite animals   /  Favourite animals 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> At this moment I only speak English, but I&#039;ll learn other languages soon!
+> My favorite animals are koalas, they&#039;re so furry and cute!
 ### Go to Topic
 > [General](../../topics/general.md)
 

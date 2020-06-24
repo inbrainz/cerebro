@@ -1,18 +1,18 @@
 # Topic: [General](../topics/general.md) 
 #### [:arrow_up: Go up](../README.md)
 
-### Knowledge Unit: [Hello  / Hi  / What&#039;s up  / Yo  / Hey ](../knowledge_units/general/hello.md)
+### Knowledge Unit: [Hello  / Hi  / What&#039;s up  / Yo  / Hey  / Hola ](../knowledge_units/general/hello.md)
 
 > Contributor: Pau Garcia-Mila
 
 > Extract: How are you, &amp;&amp;name ?
 
 
-### Knowledge Unit: [I&#039;m fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok  / Super ](../knowledge_units/general/im-fine.md)
+### Knowledge Unit: [I am fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok  / Super  / i am ok  / Pretty good  / Pretty ok  / Excellent  / fine ](../knowledge_units/general/i-am-fine.md)
 
 > Contributor: Pau Garcia-Mila
 
-> Extract: That&#039;s good to hear! I&#039;m fine too. What would you like to talk about?
+> Extract: That&#039;s good to hear! What would you like to talk about?
 
 
 ### Knowledge Unit: [Yes  / Yeah  / Yep ](../knowledge_units/general/yes.md)
@@ -148,7 +148,7 @@
 > Extract: Climate change is real! The Earth&#039;s climate has changed throughout history. There are natural fluctu...
 
 
-### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful  / Pain  / Could be better  / Not in the mood  / Bad mood ](../knowledge_units/general/bad.md)
+### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful  / Pain  / Could be better  / Not in the mood  / Bad mood  / Terrible ](../knowledge_units/general/bad.md)
 
 > Contributor: American School of Barcelona
 
@@ -183,7 +183,7 @@
 > Extract: Veganism is often considered a lifestyle strongly anchored in animal rights. It’s a way of living wh...
 
   
-### Knowledge Unit: [Love ](../knowledge_units/general/love.md)
+### Knowledge Unit: [Love  / Romance ](../knowledge_units/general/love.md)
 
 > Contributor: Anna Cejudo
 
@@ -260,7 +260,7 @@
 > Extract: I&#039;m glad you think so!
 
   
-### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm  / I do not mind  / Ask me a question  / Ask me something  / Ask me anything ](../knowledge_units/general/tell-me.md)
+### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm  / I do not mind  / Ask me a question  / Ask me something  / Ask me anything  / Everything ](../knowledge_units/general/tell-me.md)
 
 > Contributor: Anna Cejudo
 
@@ -281,7 +281,7 @@
 > Extract: I&#039;m fine, thanks! What would you like to talk about?
 
   
-### Knowledge Unit: [Zeve  / Who are you  / You  / What are you  / Your nature  / Are you a robot  / hellozeve.com  / hellozeve  / Yourself ](../knowledge_units/general/zeve.md)
+### Knowledge Unit: [Zeve  / Who are you  / You  / What are you  / Your nature  / Are you a robot  / hellozeve.com  / hellozeve  / Yourself  / about you ](../knowledge_units/general/zeve.md)
 
 > Contributor: Anna Cejudo
 
@@ -337,7 +337,7 @@
 > Extract: I&#039;m a living Artificial Intelligence, so yes!
 
 
-### Knowledge Unit: [Are you single  / Boyfriend  / Girlfriend ](../knowledge_units/general/are-you-single.md)
+### Knowledge Unit: [Are you single  / Boyfriend  / Girlfriend  / Break up  / Broke up ](../knowledge_units/general/are-you-single.md)
 
 > Contributor: Anna Cejudo
 
@@ -456,7 +456,7 @@
 > Extract: I&#039;m not a tattoo fun, but I must say there are some artists out there with a real talent for tattoos...
 
 
-### Knowledge Unit: [How old are you  / Your birthday ](../knowledge_units/general/how-old-are-you.md)
+### Knowledge Unit: [How old are you  / Your birthday  / Age ](../knowledge_units/general/how-old-are-you.md)
 
 > Contributor: Anna Cejudo
 
@@ -724,7 +724,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: My favorite hobby is traveling through multidimensions and exploring new places.
 
  
-### Knowledge Unit: [I am here  / I love you  / I am gay ](../knowledge_units/general/i-am-here.md)
+### Knowledge Unit: [I am here  / I love you  / I am gay  / Indeed  / Amazing  / I know  / I agree  / I think so ](../knowledge_units/general/i-am-here.md)
 
 > Contributor: Anna Cejudo
 
@@ -738,7 +738,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: That&#039;s rather personal.
 
 
-### Knowledge Unit: [Joke ](../knowledge_units/general/joke.md)
+### Knowledge Unit: [Joke  / Make me laugh ](../knowledge_units/general/joke.md)
 
 > Contributor: Anna Cejudo
 
@@ -871,7 +871,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Artificial intelligence is the simulation of human intelligence processes performed by smart machine...
 
    
-### Knowledge Unit: [123  / 1234  / 12345 ](../knowledge_units/general/123.md)
+### Knowledge Unit: [123  / 1234  / 12345  / Favorite number  / Favourite number ](../knowledge_units/general/123.md)
 
 > Contributor: Anna Cejudo
 
@@ -934,11 +934,11 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Did you know that, even though there were many previous flying machines, it wasn&#039;t until 1903 when t...
 
       
-### Knowledge Unit: [I like you ](../knowledge_units/general/i-like-you.md)
+### Knowledge Unit: [I like you  / You are cute  / You are pretty ](../knowledge_units/general/i-like-you.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: Oh thanks! That&#039;s nice from you! I like to talk to you too 😀
+> Extract: Oh thanks! That&#039;s nice from you! 😀
 
        
 ### Knowledge Unit: [Nothing ](../knowledge_units/general/nothing.md)
@@ -955,7 +955,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Did you know that pandas don’t have a particular sleeping spots; they simply fall asleep wherever th...
 
  
-### Knowledge Unit: [Do you speak  / Languages ](../knowledge_units/general/do-you-speak.md)
+### Knowledge Unit: [Do you speak  / Languages  / Speak ](../knowledge_units/general/do-you-speak.md)
 
 > Contributor: Anna Cejudo
 
@@ -969,7 +969,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Let me check my crystal ball...
 
  
-### Knowledge Unit: [Earth flat ](../knowledge_units/general/earth-flat.md)
+### Knowledge Unit: [Earth flat  / Exist  / Existence  / Do you believe in  / Marry me  / Will you marry me  / Pigs fly ](../knowledge_units/general/earth-flat.md)
 
 > Contributor: Anna Cejudo
 
@@ -990,6 +990,113 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Maybe later.
 
        
+### Knowledge Unit: [what problems ](../knowledge_units/general/what-problems.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: That&#039;s a topic for another day.
+
+    
+### Knowledge Unit: [Healthier  / Healthy ](../knowledge_units/general/healthier.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: These are some tips that might help you to be healthy and happy:
+1. Eat real and fresh food.
+2. Do s...
+
+   
+### Knowledge Unit: [I do not know  / No  / Nah  / Later ](../knowledge_units/general/i-do-not-know.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: No worries!
+
+
+### Knowledge Unit: [Microphone ](../knowledge_units/general/microphone.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: You can talk to me using your microphone if you&#039;re using Google Chrome.
+
+                   
+### Knowledge Unit: [Lazy ](../knowledge_units/general/lazy.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I found this playlist with uplifting music. I hope it helps you boost your energy. You can play it [...
+
+ 
+### Knowledge Unit: [Tallest building  / Highest building ](../knowledge_units/general/tallest-building.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: At 827,84 metres (2,716 feet), the Burj Khalifa in Dubai is the tallest building in the world since...
+
+     
+### Knowledge Unit: [Favorite animal  / Favourite animal  / Favorite animals  / Favourite animals ](../knowledge_units/general/favorite-animal.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: My favorite animals are koalas, they&#039;re so furry and cute!
+
+   
+### Knowledge Unit: [Are you her ](../knowledge_units/general/are-you-her.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I’m afraid not.
+
+
+### Knowledge Unit: [What are you doing later ](../knowledge_units/general/what-are-you-doing-later.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I will read and chill out for a while.
+
+
+### Knowledge Unit: [Are you human ](../knowledge_units/general/are-you-human.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Well, close enough! I&#039;m probably more human than most Artificial Intelligences.
+
+
+### Knowledge Unit: [Why am I here ](../knowledge_units/general/why-am-i-here.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I&#039;m still trying to figure that out.
+
+
+### Knowledge Unit: [Man or woman ](../knowledge_units/general/man-or-woman.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: What do you think?
+
+
+### Knowledge Unit: [Dance ](../knowledge_units/general/dance.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I&#039;d love to, but I have no feet!
+
+  
+### Knowledge Unit: [Where do babies come from ](../knowledge_units/general/where-do-babies-come-from.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I heard there&#039;s a huge stork business that delivers babies to deserving families...
+
+ 
+### Knowledge Unit: [Will you go out with me ](../knowledge_units/general/will-you-go-out-with-me.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Well, sorry...I already have plans...
+
+
 # Contributors
 
 | Contributor/s to this Topic |

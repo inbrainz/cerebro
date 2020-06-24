@@ -1,5 +1,5 @@
 # Knowledge Unit: [Joke](../../knowledge_units/general/joke.md)
-
+### Alternatives:   Make me laugh 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
