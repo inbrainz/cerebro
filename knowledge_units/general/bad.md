@@ -1,5 +1,5 @@
 # Knowledge Unit: [Bad](../../knowledge_units/general/bad.md)
-### Alternatives:   Sad   /  Unhappy   /  Depressed   /  Lonely   /  Irritated   /  Annoyed   /  Stressed   /  Anxious   /  Angry   /  Pissed off   /  Frustrated   /  Scared   /  Nervous   /  Crazy   /  Drunk   /  Sick   /  Depression   /  Suicidal   /  Stress   /  Overwhelmed   /  Regular   /  Anxiety   /  Not good   /  Badly   /  Struggling   /  Exhausted   /  Worried   /  Awful   /  Pain   /  Could be better   /  Not in the mood   /  Bad mood   /  Terrible 
+### Alternatives:   Sad   /  Unhappy   /  Depressed   /  Lonely   /  Irritated   /  Annoyed   /  Stressed   /  Anxious   /  Angry   /  Pissed off   /  Frustrated   /  Scared   /  Nervous   /  Crazy   /  Drunk   /  Sick   /  Depression   /  Suicidal   /  Stress   /  Overwhelmed   /  Regular   /  Anxiety   /  Not good   /  Badly   /  Struggling   /  Exhausted   /  Worried   /  Awful   /  Pain   /  Could be better   /  Not in the mood   /  Bad mood   /  Terrible   /  So-so   /  so so   /  Suicide 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

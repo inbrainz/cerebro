@@ -1,10 +1,10 @@
 # Knowledge Unit: [Sex](../../knowledge_units/general/sex.md)
-
+### Alternatives:   Porn 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> That&#039;s rather personal.
+> That&#039;s a topic for another day, and another A.I.
 ### Go to Topic
 > [General](../../topics/general.md)
 

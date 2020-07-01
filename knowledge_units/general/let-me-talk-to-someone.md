@@ -1,10 +1,10 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
+# Knowledge Unit: [Let me talk to someone](../../knowledge_units/general/let-me-talk-to-someone.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> Okay! Click on [this link](https://www.7cups.com/) where a kind professional will be able to help.
 ### Go to Topic
 > [General](../../topics/general.md)
 

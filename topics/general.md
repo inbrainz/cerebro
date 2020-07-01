@@ -8,7 +8,7 @@
 > Extract: How are you, &amp;&amp;name ?
 
 
-### Knowledge Unit: [I am fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok  / Super  / i am ok  / Pretty good  / Pretty ok  / Excellent  / fine ](../knowledge_units/general/i-am-fine.md)
+### Knowledge Unit: [I am fine  / Good  / Great great!  / Doing well  / Ok  / O.K.  / Okay  / Ok!  / O.K.!  / Okay!  / Cool  / Cool!  / Fantastic  / Well  / Alright  / Stupendous  / Very well  / Very good  / Well  / Happy  / Excited  / i&#039;m ok  / Super  / i am ok  / Pretty good  / Pretty ok  / Excellent  / fine  / Wonderful ](../knowledge_units/general/i-am-fine.md)
 
 > Contributor: Pau Garcia-Mila
 
@@ -26,7 +26,7 @@
 
 > Contributor: Pau Garcia-Mila
 
-> Extract: Hello? Are you there &amp;&amp;name ? What would you like to talk about?
+> Extract: Hi &amp;&amp;name, what would you like to talk about 😀?
 
 
 ### Knowledge Unit: [I&#039;m bored  / Boredom  / Meh  / Idk  / Boring ](../knowledge_units/general/im-bored.md)
@@ -148,7 +148,7 @@
 > Extract: Climate change is real! The Earth&#039;s climate has changed throughout history. There are natural fluctu...
 
 
-### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful  / Pain  / Could be better  / Not in the mood  / Bad mood  / Terrible ](../knowledge_units/general/bad.md)
+### Knowledge Unit: [Bad  / Sad  / Unhappy  / Depressed  / Lonely  / Irritated  / Annoyed  / Stressed  / Anxious  / Angry  / Pissed off  / Frustrated  / Scared  / Nervous  / Crazy  / Drunk  / Sick  / Depression  / Suicidal  / Stress  / Overwhelmed  / Regular  / Anxiety  / Not good  / Badly  / Struggling  / Exhausted  / Worried  / Awful  / Pain  / Could be better  / Not in the mood  / Bad mood  / Terrible  / So-so  / so so  / Suicide ](../knowledge_units/general/bad.md)
 
 > Contributor: American School of Barcelona
 
@@ -183,7 +183,7 @@
 > Extract: Veganism is often considered a lifestyle strongly anchored in animal rights. It’s a way of living wh...
 
   
-### Knowledge Unit: [Love  / Romance ](../knowledge_units/general/love.md)
+### Knowledge Unit: [Love  / Romance  / Passion ](../knowledge_units/general/love.md)
 
 > Contributor: Anna Cejudo
 
@@ -260,7 +260,7 @@
 > Extract: I&#039;m glad you think so!
 
   
-### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm  / I do not mind  / Ask me a question  / Ask me something  / Ask me anything  / Everything ](../knowledge_units/general/tell-me.md)
+### Knowledge Unit: [Tell me  / decide tell something suggest anything  / mmm  / I do not mind  / Ask me a question  / Ask me something  / Ask me anything  / Everything  / Whatever  / Random stuff ](../knowledge_units/general/tell-me.md)
 
 > Contributor: Anna Cejudo
 
@@ -474,7 +474,7 @@
 
 > Contributor: Anna Cejudo
 
-> Extract: I was born in Barcelona, Spain, but I&#039;m from everywhere.
+> Extract: I was born in Barcelona, Spain.
 
 
 ### Knowledge Unit: [Where do you live ](../knowledge_units/general/where-do-you-live.md)
@@ -603,7 +603,7 @@
 > Extract: Sorry, my name is Zeve. But I&#039;ll let Mr. Stark know someone is looking for Jarvis.
 
 
-### Knowledge Unit: [Testing ](../knowledge_units/general/testing.md)
+### Knowledge Unit: [Testing  / Test ](../knowledge_units/general/testing.md)
 
 > Contributor: Anna Cejudo
 
@@ -731,11 +731,11 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: Good to know!
 
  
-### Knowledge Unit: [Sex ](../knowledge_units/general/sex.md)
+### Knowledge Unit: [Sex  / Porn ](../knowledge_units/general/sex.md)
 
 > Contributor: Anna Cejudo
 
-> Extract: That&#039;s rather personal.
+> Extract: That&#039;s a topic for another day, and another A.I.
 
 
 ### Knowledge Unit: [Joke  / Make me laugh ](../knowledge_units/general/joke.md)
@@ -763,7 +763,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Contributor: Anna Cejudo
 
-> Extract: Hi &amp;&amp;name, what are you up to? I&#039;d like to talk about...you tell me 😀
+> Extract: Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
 
                          
 ### Knowledge Unit: [Anna Cejudo ](../knowledge_units/general/anna-cejudo.md)
@@ -772,14 +772,14 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Extract: She is part of my family. I love to have such a wonderful family!
 
- 
+
 ### Knowledge Unit: [Pau Garcia-Milà ](../knowledge_units/general/pau-garcia-mila.md)
 
 > Contributor: Anna Cejudo
 
 > Extract: He is part of my family. I love to have such a wonderful family!
 
-  
+
 ### Knowledge Unit: [ESADE ](../knowledge_units/general/esade.md)
 
 > Contributor: Anna Cejudo
@@ -920,7 +920,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Extract: You can check the weather [here](https://weather.com/) 😊
 
           
-### Knowledge Unit: [Sorry ](../knowledge_units/general/sorry.md)
+### Knowledge Unit: [Sorry  / No I wouldn&#039;t ](../knowledge_units/general/sorry.md)
 
 > Contributor: Anna Cejudo
 
@@ -1052,7 +1052,7 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 
 > Contributor: Anna Cejudo
 
-> Extract: I will read and chill out for a while.
+> Extract: I will read and chill out for a while. Or maybe travel at the speed of light. I haven&#039;t decided yet.
 
 
 ### Knowledge Unit: [Are you human ](../knowledge_units/general/are-you-human.md)
@@ -1095,6 +1095,62 @@ S. U. P. E. R. C. A. L. I. F. R. A. G. I. L. I. S. T. I. C. E. X. P. I. A. L. I.
 > Contributor: Anna Cejudo
 
 > Extract: Well, sorry...I already have plans...
+
+
+### Knowledge Unit: [Guim Caballero ](../knowledge_units/general/guim-caballero.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: He is part of my family. I love to have such a wonderful family!
+
+  
+### Knowledge Unit: [Why ](../knowledge_units/general/why.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: That&#039;s a good question.
+
+
+### Knowledge Unit: [Mirror mirror on the wall who&#039;s the fairest of them all  / Mirror mirror on the wall who&#039;s the fairest of all ](../knowledge_units/general/mirror-mirror-on-the-wall-whos-the-fairest-of-them-all.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Snow White?
+
+    
+### Knowledge Unit: [No problem ](../knowledge_units/general/no-problem.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Thanks for understanding.
+
+ 
+### Knowledge Unit: [What ](../knowledge_units/general/what.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: What do you mean?
+
+
+### Knowledge Unit: [Murder  / Kill  / Divorce  / Killing  / Die  / Died ](../knowledge_units/general/murder.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: I&#039;m sorry, may I help you?
+
+  
+### Knowledge Unit: [Let me talk to someone ](../knowledge_units/general/let-me-talk-to-someone.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Okay! Click on [this link](https://www.7cups.com/) where a kind professional will be able to help.
+
+        
+### Knowledge Unit: [How many stars ](../knowledge_units/general/how-many-stars.md)
+
+> Contributor: Anna Cejudo
+
+> Extract: Let me see...1, 2, 6, 354, 679...this is exhausting! Let&#039;s just say there are more than we can count...
 
 
 # Contributors

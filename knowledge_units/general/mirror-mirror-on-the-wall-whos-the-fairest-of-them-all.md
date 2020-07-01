@@ -1,10 +1,10 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
-
+# Knowledge Unit: [Mirror mirror on the wall who&#039;s the fairest of them all](../../knowledge_units/general/mirror-mirror-on-the-wall-whos-the-fairest-of-them-all.md)
+### Alternatives:   Mirror mirror on the wall who&#039;s the fairest of all 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> Snow White?
 ### Go to Topic
 > [General](../../topics/general.md)
 

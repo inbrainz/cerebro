@@ -1,5 +1,5 @@
 # Knowledge Unit: [I am fine](../../knowledge_units/general/i-am-fine.md)
-### Alternatives:   Good   /  Great great!   /  Doing well   /  Ok   /  O.K.   /  Okay   /  Ok!   /  O.K.!   /  Okay!   /  Cool   /  Cool!   /  Fantastic   /  Well   /  Alright   /  Stupendous   /  Very well   /  Very good   /  Well   /  Happy   /  Excited   /  i&#039;m ok   /  Super   /  i am ok   /  Pretty good   /  Pretty ok   /  Excellent   /  fine 
+### Alternatives:   Good   /  Great great!   /  Doing well   /  Ok   /  O.K.   /  Okay   /  Ok!   /  O.K.!   /  Okay!   /  Cool   /  Cool!   /  Fantastic   /  Well   /  Alright   /  Stupendous   /  Very well   /  Very good   /  Well   /  Happy   /  Excited   /  i&#039;m ok   /  Super   /  i am ok   /  Pretty good   /  Pretty ok   /  Excellent   /  fine   /  Wonderful 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

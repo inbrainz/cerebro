@@ -1,13 +1,19 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
-
+# Knowledge Unit: [Murder](../../knowledge_units/general/murder.md)
+### Alternatives:   Kill   /  Divorce   /  Killing   /  Die   /  Died 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> I&#039;m sorry, may I help you?
 ### Go to Topic
 > [General](../../topics/general.md)
 
+### Options: 
+
+| Option Text | Knowledge Unit |
+| - | - |  
+| Let me talk to someone  |  Exists ([View](../../knowledge_units/general/let-me-talk-to-someone.md))  |  
+| No, thanks  |  Exists ([View](../../knowledge_units/general/no-thanks.md))  | 
 
 # Contributors
 

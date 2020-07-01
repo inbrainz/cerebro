@@ -8,7 +8,7 @@
 > Extract: If you want more information about flights click [here] (https://es.flightaware.com/). This will all...
 
 
-### Knowledge Unit: [Longest flight in the world ](../knowledge_units/flights/longest-flight-in-the-world.md)
+### Knowledge Unit: [Longest flight ](../knowledge_units/flights/longest-flight.md)
 
 > Contributor: American School of Barcelona
 

@@ -13,7 +13,7 @@
 | Option Text | Knowledge Unit |
 | - | - |  
 | Let&#039;s talk about something else  |  Exists ([View](../../knowledge_units/flights/lets-talk-about-something-else.md))  |  
-| Longest flight in the world  |  Exists ([View](../../knowledge_units/flights/longest-flight-in-the-world.md))  | 
+| Longest flight in the world  |  Not yet created  | 
 
 # Contributors
 

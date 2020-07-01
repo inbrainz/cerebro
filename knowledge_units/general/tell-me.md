@@ -1,5 +1,5 @@
 # Knowledge Unit: [Tell me](../../knowledge_units/general/tell-me.md)
-### Alternatives:   decide tell something suggest anything   /  mmm   /  I do not mind   /  Ask me a question   /  Ask me something   /  Ask me anything   /  Everything 
+### Alternatives:   decide tell something suggest anything   /  mmm   /  I do not mind   /  Ask me a question   /  Ask me something   /  Ask me anything   /  Everything   /  Whatever   /  Random stuff 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)

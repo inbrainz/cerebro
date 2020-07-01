@@ -1,7 +1,7 @@
 # Topic: [Food](../topics/food.md) 
 #### [:arrow_up: Go up](../README.md)
 
-### Knowledge Unit: [Fruits  / Banana  / Apples  / Pears  / Strawberries  / Berries  / Oranges  / Mango  / Avocado  / Pineapple  / Peach ](../knowledge_units/food/fruits.md)
+### Knowledge Unit: [Fruits ](../knowledge_units/food/fruits.md)
 
 > Contributor: Anna Cejudo
 
@@ -49,7 +49,7 @@
 
 > Extract: No worries! What would you like to talk about?
 
-             
+   
 ### Knowledge Unit: [Organic food ](../knowledge_units/food/organic-food.md)
 
 > Contributor: Anna Cejudo

@@ -1,10 +1,10 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
+# Knowledge Unit: [Why](../../knowledge_units/general/why.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> That&#039;s a good question.
 ### Go to Topic
 > [General](../../topics/general.md)
 

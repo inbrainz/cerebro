@@ -1,10 +1,10 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
+# Knowledge Unit: [How many stars](../../knowledge_units/general/how-many-stars.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> Let me see...1, 2, 6, 354, 679...this is exhausting! Let&#039;s just say there are more than we can count.
 ### Go to Topic
 > [General](../../topics/general.md)
 

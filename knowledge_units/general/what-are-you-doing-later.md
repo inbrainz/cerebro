@@ -4,7 +4,7 @@
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> I will read and chill out for a while.
+> I will read and chill out for a while. Or maybe travel at the speed of light. I haven&#039;t decided yet.
 ### Go to Topic
 > [General](../../topics/general.md)
 

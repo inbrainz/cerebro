@@ -1,5 +1,5 @@
 # Knowledge Unit: [Fruits](../../knowledge_units/food/fruits.md)
-### Alternatives:   Banana   /  Apples   /  Pears   /  Strawberries   /  Berries   /  Oranges   /  Mango   /  Avocado   /  Pineapple   /  Peach 
+
 #### [:arrow_up: Go up](../../topics/food.md)
 ### Current topic
 > [Food](../../topics/food.md)

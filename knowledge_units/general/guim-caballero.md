@@ -1,10 +1,10 @@
-# Knowledge Unit: [Idle](../../knowledge_units/general/idle.md)
+# Knowledge Unit: [Guim Caballero](../../knowledge_units/general/guim-caballero.md)
 
 #### [:arrow_up: Go up](../../topics/general.md)
 ### Current topic
 > [General](../../topics/general.md)
 ### Output
-> Hi &amp;&amp;name, how are you doing? I&#039;d like to talk about...you tell me 😀
+> He is part of my family. I love to have such a wonderful family!
 ### Go to Topic
 > [General](../../topics/general.md)
 
